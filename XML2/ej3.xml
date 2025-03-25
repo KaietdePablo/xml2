@@ -1,0 +1,29 @@
+<!-- 
+Nombre: [Kaiet de Pablo]
+Curso: [Asir]
+Fecha: [25/3/2025]
+Ejercicio: [Receta]
+-->
+<plato>
+    <titulo>Sopa de cebolla</titulo>
+    <porciones>4</porciones>
+    <componentes>
+        <componente cantidad="1 kg">Cebollas</componente>
+        <componente cantidad="2 litros">Caldo de carne</componente>
+        <componente cantidad="100 gr">Mantequilla</componente>
+        <componente cantidad="1 cucharada">Harina</componente>
+        <componente cantidad="100 gr">Queso emmental</componente>
+        <componente>Pan tostado en rebanadas</componente>
+        <componente>Tomillo</componente>
+        <componente>1 hoja de laurel</componente>
+        <componente>Pimienta</componente>
+    </componentes>
+    <preparacion>
+        <paso>Pelar y partir las cebollas en rodajas finas.</paso>
+        <paso>Rehogarlas con la mantequilla, sal y pimienta a fuego lento hasta que estén transparentes sin dorarse.</paso>
+        <paso>Añadir la harina sin dejar de remover.</paso>
+        <paso>Ponerlo en una cazuela con el caldo, el tomillo y el laurel.</paso>
+        <paso>Dejar cocer a fuego lento durante unos 15 minutos.</paso>
+        <paso>Poner las rebanadas de pan encima, espolvorear el queso y gratinar al horno.</paso>
+    </preparacion>
+</plato>

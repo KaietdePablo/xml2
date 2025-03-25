@@ -1,0 +1,37 @@
+<!-- 
+Nombre: [Kaiet de Pablo]
+Curso: [Asir]
+Fecha: [25/3/2025]
+Ejercicio: [Futbol]
+ -->
+
+<clubes>
+    <club>
+        <nombre>Real Betis</nombre>
+        <ciudad>Sevilla</ciudad>
+        <jugadores>
+            <jugador posicion="portero">
+                <nombre>Rui Silva</nombre>
+                <nacionalidad>Portugal</nacionalidad>
+            </jugador>
+            <jugador posicion="delantero">
+                <nombre>Borja Iglesias</nombre>
+                <nacionalidad>España</nacionalidad>
+            </jugador>
+        </jugadores>
+    </club>
+    <club>
+        <nombre>Benfica</nombre>
+        <ciudad>Lisboa</ciudad>
+        <jugadores>
+            <jugador posicion="defensa">
+                <nombre>Nicolás Otamendi</nombre>
+                <nacionalidad>Argentina</nacionalidad>
+            </jugador>
+            <jugador posicion="medio">
+                <nombre>João Neves</nombre>
+                <nacionalidad>Portugal</nacionalidad>
+            </jugador>
+        </jugadores>
+    </club>
+</clubes>

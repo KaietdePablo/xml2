@@ -1,0 +1,23 @@
+<!-- 
+Nombre: [Kaiet de Pablo]
+Curso: [Asir]
+Fecha: [25/3/2025]
+Ejercicio: [Enlaces]
+ -->
+<enlaces>
+    <enlace>
+        <titulo>W3Schools</titulo>
+        <detalle>Tutoriales de informática.</detalle>
+        <direccion>https://www.w3schools.com/</direccion>
+    </enlace>
+    <enlace>
+        <titulo>Wikipedia</titulo>
+        <detalle>La enciclopedia libre.</detalle>
+        <direccion>http://www.wikipedia.org/</direccion>
+    </enlace>
+    <enlace>
+        <titulo>W3C</titulo>
+        <detalle>World Wide Web Consortium.</detalle>
+        <direccion>http://www.w3.org/</direccion>
+    </enlace>
+</enlaces>
